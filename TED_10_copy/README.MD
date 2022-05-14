@@ -1,1 +1,0 @@
-Questões para colocar em prática os conhecimentos em python adquiridos na aula de introdução a programação do professor Messias Batista (GitHub: mrafaelbatista)
